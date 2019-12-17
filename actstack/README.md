@@ -1,6 +1,12 @@
 My side project I'm working on.
 
 The front-end of a story organiztion tool.
+*  3 Components for an MVP
+    - A  main class component that holds the data.
+    - A component for a card. It emulates an Idex card.
+    - For right now, I will write cards to a local array instead of a database.
+    - Something else. 
+
 
 
 
